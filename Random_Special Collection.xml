@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="http://ead3.archivists.org/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ead3.archivists.org/schema/ https://www.loc.gov/ead/ead3.xsd">
+    <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511">
+        <recordid instanceurl="http://www.simmons.edu/lis440/wang.xml">wang.XML</recordid>
+        <filedesc>
+            <titlestmt>
+                <titleproper render="bold">Guide to the Acme Company Gadgetry Division records, 1949-1966</titleproper>
+                <author>Processed by: Katherine M. Wisser; machine-readable finding aid created by: Shanshan Wang</author>
+                <sponsor>Processing of this collection was supported in part by gifts from the estate of Wile E. Coyote.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="260$b">
+                    <ptr show="embed" actuate="onload" href="EAD.jpg"/>Random University Library</publisher>
+                <date normal="2004">2004</date>
+                <p>&#x00A9; Random University Library</p>
+                <address>
+                    <addressline>400 Research Road</addressline>
+                    <addressline>South Boston, MA 02114</addressline>
+                    <addressline>Email: randomArchives@randomU.edu</addressline>
+                    <addressline>URL: http://www.randomU.edu/library/</addressline>
+                    <addressline>Phone: 800.555.1212</addressline>
+                    <addressline>Fax: 800.555.1213</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <maintenancestatus value="new"/> 
+        <maintenanceagency>
+            <agencycode>MBSi-LS</agencycode>
+            <agencyname>Random University Archives and Special Collections</agencyname>
+        </maintenanceagency>
+        <languagedeclaration>
+            <language langcode="eng"/>
+            <script scriptcode="Latn"/>
+        </languagedeclaration>
+        <conventiondeclaration>
+            <abbr>dacs</abbr>
+            <citation>Describing Archives: A Content Standard. Chicago: Society of American Archivists, 2013.</citation>
+        </conventiondeclaration>
+        <maintenancehistory>
+            <maintenanceevent>
+                <eventtype value="created"/>
+                <eventdatetime standarddatetime="2020-07-22">2020-07-22</eventdatetime>
+                <agenttype value="human"/>
+                <agent>Shanshan Wang</agent>
+            </maintenanceevent>
+        </maintenancehistory>
+    </control>
+    
+    <archdesc level="collection" relatedencoding="MARC">
+        <did>
+            <head>Descriptive Summary</head>
+            <unittitle encodinganalog="245$a">Acme Company Gadgetry Division records</unittitle>
+            <unitdatestructured>
+                <daterange>
+                    <fromdate standarddate="1949">1949</fromdate>
+                    <todate standarddate="1966">1966</todate>
+                </daterange>
+            </unitdatestructured>
+            <unitid countrycode="us" repositorycode="MBSi-LS" encodinganalog="099">MC 123</unitid>    
+            <origination encodinganalog="100">
+                <corpname>
+                    <part>Acme Company</part>
+                    <part>Gadgetry Division</part>
+                </corpname>
+            </origination>
+            <langmaterial encodinganalog="546">
+                <language lang="eng">English</language>
+            </langmaterial> 
+            <physdescset>
+                <physdescstructured physdescstructuredtype="carrier" coverage="whole">
+                    <quantity>7</quantity>
+                    <unittype>archival boxes</unittype>
+                </physdescstructured>
+                <physdescstructured physdescstructuredtype="spaceoccupied" coverage="whole">
+                    <quantity>3.5</quantity>
+                    <unittype>linear feet</unittype>
+                </physdescstructured>
+            </physdescset>
+            <repository>
+                <corpname>
+                    <part>Random University</part>
+                    <part>Archives and Special Collections</part>
+                </corpname>
+            </repository>
+            <physloc>Please contact the Call of the Coyote Library for information regarding use of this collection.</physloc>
+            <abstract encodinganalog="545">
+                Serving a variety of Looney Toon needs, the Gadgetry Division of the Acme Company began production of its various products in the 1940s.  Primarily geared toward the capture of various elusive characters that tormented their opponents, Acme sought to provide the necessary equipment for resolution of many chases. 
+                Prominent customers include Elmer Fudd, Sylvester the Cat, Pepe Le Pew, and most notably Wile E. Coyote, who became official product test representative for the company.
+                Mr. Coyote was the Division’s most prolific customer, despite his difficulties in execution of the products. He had a standing order for dynamite and received a catalog of their new products quarterly. 
+                Mr. Coyote stopped purchasing products from the Gadgetry Division in 1966 and subsequently disappeared from public life. Without its chief customer and record sales of the Gadgetry Division, Acme dissolved it as a division that same year. 
+            </abstract>
+            <abstract encodinganalog="520">
+                This collection documents the business generated by the Gadgetry Division of the Acme Company from 1949 to 1966.  
+                It includes correspondence, research information on products and on Wile E. Coyote, product testing videos recorded by Wile E. Coyote, and the Division’s catalogs throughout its existence. 
+            </abstract>       
+        </did>
+
+        <accessrestrict encodinganalog="506">
+            <head>Restrictions to Access</head>
+            <p>This collection is open to all coyotes. Some restrictions apply.</p>
+            <p>The series of Product Design Files is restricted. Permission from the Acme Company is required.</p>
+        </accessrestrict>
+        <userestrict>
+            <head>Copyright Notice</head>
+            <p>The Acme Company retains copyright and patent rights on the materials in this collection.</p>
+        </userestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisitions Information</head>
+            <p>The Acme Company Archives was transferred to the Call of the Coyote Library through gift in 2003.</p>
+        </acqinfo>
+        <processinfo>
+            <head>Processing Information</head>
+            <p>Katherine M. Wisser, 2004-03-01</p>
+            <p>Shanshan Wang, 2020-07-22</p>
+        </processinfo>
+        <bioghist>
+            <head>Historical Note</head>
+            <p>Serving a variety of Looney Toon needs, the Gadgetry Division of the Acme Company began production of its various products in the 1940s.  Primarily geared toward the capture of various elusive characters that tormented their opponents, Acme sought to provide the necessary equipment for resolution of many chases. While Gadgetry Division products did not succeed in providing the chasers with the appropriate acquisition, they enjoyed an almost two-decade unprecedented sales record for their contraptions. Most failures of products can be attributed to inappropriate use by purchasers in their eagerness to catch their prey.</p>
+            <p>Prominent customers include Elmer Fudd, Sylvester the Cat, Pepe Le Pew, and most notably Wile E. Coyote, who became official product test representative for the company. The in-depth relationship that grew between this division and its customers accounts for many specialized products.  Mr. Coyote was the Division’s most prolific customer, despite his difficulties in execution of the products. He had a standing order for dynamite and received a catalog of their new products quarterly. The Gadgetry Division began supplying Mr. Coyote with all his bird seed needs in 1951 when he made a special request, including several different varieties.  Mr. Coyote provided Acme with the appropriate documentation of the use of their products through short films so that they could assess them for mass marketing after making some improvement.  Many of the videos demonstrate not the product faultiness, but the lack of adherence by Mr. Coyote to follow directions.  </p>
+            <p>Mr. Coyote stopped purchasing products from the Gadgetry Division in 1966 and subsequently disappeared from public life. Without its chief customer and record sales of the Gadgetry Division, Acme dissolved it as a division that same year.  The Road Runner also disappeared in 1966, but has resurfaced as a spokesbird for an internet-provider service.  It is rumored that the Road Runner is doing quite well, while Wile E. Coyote has remained elusive since his disappearance. </p>
+        </bioghist>
+        <scopecontent>
+            <head>Scope and Content of the Collection</head>
+            <p>This collection documents the business generated by the Gadgetry Division of the Acme Company from 1949 to 1966.  It includes correspondence, research information on products and on Wile E. Coyote, product testing videos recorded by Wile E. Coyote, and the Division’s catalogs throughout its existence. The correspondence series documents the internal discussions about the creation of the Division, its tumultuous relationship with Mr. Coyote, and a great deal of product research for gadgets made by special request.  The testing videos demonstrate the gadgets in use by Wile E. Coyote.  These videos demonstrated to the Division that they needed improvements not only in the products themselves but also in the construction of their gadgets.  They also document the relationship between Wile E. Coyote and the Road Runner and highlight some other prominent figures in Looney Toon, such as Bugs Bunny.  Finally, the Gadget catalogs give a sense of the progress of the Division’s products.</p>
+            <p>Most of the client files were destroyed in a TNT accident in 1966 and are therefore not represented in the collection.  Wile E. Coyote records were kept separately from other customers due to his willingness to test new products for effectiveness.</p>
+        </scopecontent>
+        <arrangement>
+            <head>Arrangment of the Collection</head>
+            <p>These records are organized into five series: Correspondence, Research, Product Design, Product Testing Videos, and Gadget Catalogs. </p>   
+            <p>Series are organized either chronologically or alphabetically by topic. Original order has been maintained in the Product Design Files Series.</p>
+        </arrangement>
+        
+        <controlaccess>
+            <head>Index Terms</head>
+            <corpname encodinganalog="610" source="lcnaf">
+                <part>Acme Company</part>
+                <part>Gadgetry Division</part>
+            </corpname>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Commercial Products</part>
+                <part>Testing</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Costume design</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Coyote</part>
+                <part>Behavior</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Coyote</part>
+                <part>Feeds and feeding</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Explosives</part>
+                <part>Accidents</part>
+                <part>Investigation</part>
+                <part>Nevada</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Explosives</part>
+                <part>Catalogs</part>
+            </subject>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Jones, Chunck</part>
+                <part>1912-2002</part>
+            </persname>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Looney tunes</part>
+                <part>(Firm)</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>New products</part>
+                <part>Design and construction</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>New products</part>
+                <part>Evaluation</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Roadrunner</part>
+                <part>(Fictitious character)</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Wile E. Coyote</part>
+                <part>(Fictitious character)</part>
+            </subject>
+        </controlaccess>
+        
+      <dsc dsctype="combined">
+            <head>Detailed Description of the Collection</head>
+            <c01 level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1949/1966">1949-1966</unitdate>
+                    <physdesc>½ archival box, about 100 items</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>The Correspondence series includes correspondence between the Division Head, Chuck Jones, and various customers and Acme officials.  It includes early discussion about the creation of the division as well as proposed product lines, requests for special orders, and test results. These files are organized chronologically.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Chronological</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">1</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1949-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">1</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1955-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">1</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>January 1960-April 1960</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">1</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>May 1960-September 1960</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">1</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>October 1961-January 1963</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">1</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>February 1963-1966</unitdate>
+                    </did>
+                </c02>
+            </c01>
+             <c01 level="series">
+                <did>
+                    <unittitle>Research Files</unittitle>
+                    <physdesc>1 ½ archival box, about 600 items.</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Due to the demands of its customers, the Gadgetry Division maintained research files on a variety of periphery items that they wanted to provide.  These files include reprints of research articles, newsclippings, and original manuscripts on various supporting material for the gadget designs.</p>
+                    <p>Wile E. Coyote was the most prolific customer of the Gadgetry Division.  He also served as the chief product tester for the Division and recorded his tests on video.  Wile E. Coyote is a predator with enormous intelligence.  In addition his stead-fast devotion to catching the Road Runner and occasional tangles with Bugs Bunny provided ample opportunity for the Gadgetry Division to use him as a test-case for their products.  It was clear though from the many tests that he documented that he was often too eager to catch his prey than to think clearly about the applications of the gadgets. The Gadgetry Division did a great deal of research on Mr. Coyote and his prey in order to effectively serve his needs and increase their sales.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Topical</p>
+                </arrangement>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">1</container>
+                        <unittitle>Birdseed recipes</unittitle>
+                    </did>
+                </c02>
+                 <c02 level="subseries">
+                    <did>
+                        <container localtype="box">1</container>
+                        <unittitle>Explosive devices</unittitle>
+                    </did>
+                </c02>
+                 <c02 level="subseries">
+                    <did>
+                        <container localtype="box">2</container>
+                        <unittitle>Roadrunners</unittitle>
+                    </did>
+                </c02>
+                 <c02 level="subseries">
+                     <did>
+                         <container localtype="box">2</container>
+                         <unittitle>Rocket capabilities</unittitle>
+                     </did>
+                 </c02>
+                 <c02 level="subseries">
+                     <did>
+                         <container localtype="box">2</container>
+                         <unittitle>Wile E.Coyote</unittitle>
+                     </did>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="box">2</container>
+                             <unittitle>Feeding habits</unittitle>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="box">2</container>
+                             <unittitle>Social habits</unittitle>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="box">2</container>
+                             <unittitle>Mechanical skills</unittitle>
+                         </did>
+                     </c03>
+                 </c02>
+            </c01>
+            
+            <c01 level="series">
+                <did>
+                    <unittitle>Product Design Files</unittitle>
+                    <physdesc>2 archival boxes, about 600 items</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Series includes information on various gadgets designed by the gadgetry division, including design specifications, concept drawings, and mock-ups.  Each product had a design file, and these files were preserved in their original order.</p>
+                    <p>Restricted: This series is restricted. Permission from the Acme Company is required.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Original order</p>
+                </arrangement>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">3</container>
+                        <unittitle>Weapons</unittitle>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Catapult</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Cannon</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Explosives</unittitle>
+                        </did>
+                        <c04 level="item">
+                            <did>
+                                <container localtype="box">3</container>
+                                <unittitle>Dynamite</unittitle>
+                            </did>
+                        </c04>
+                        <c04 level="item">
+                            <did>
+                                <container localtype="box">3</container>
+                                <unittitle>Egg Bomb</unittitle>
+                            </did>
+                        </c04>
+                        <c04 level="item">
+                            <did>
+                                <container localtype="box">3</container>
+                                <unittitle>Kite Bomb</unittitle>
+                            </did>
+                        </c04>
+                        <c04 level="item">
+                            <did>
+                                <container localtype="box">3</container>
+                                <unittitle>Nitroglycerin-filled Carrot</unittitle>
+                            </did>
+                        </c04>
+                        <c04 level="item">
+                            <did>
+                                <container localtype="box">3</container>
+                                <unittitle>TNT</unittitle>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Lasso</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="folder">3</container>
+                        <unittitle>Costumes</unittitle>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Batman</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Road Runner</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Rocket Man</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="folder">3</container>
+                        <unittitle>Vehicles</unittitle>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Fan Powered Skateboard</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">3</container>
+                            <unittitle>Fan Powered Skates</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+ 
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">4</container>
+                        <unittitle>Helicopter</unittitle>
+                    </did>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">4</container>
+                        <unittitle>Jet Propelled Pogo Stick</unittitle>
+                    </did>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">4</container>
+                        <unittitle>Rocket</unittitle>
+                    </did>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">4</container>
+                        <unittitle>Rocket Powered Roller Skates</unittitle>
+                    </did>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">4</container>
+                        <unittitle>Roller Skates</unittitle>
+                    </did>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">4</container>
+                        <unittitle>Roller Skis</unittitle>
+                    </did>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <container localtype="box">4</container>
+                        <unittitle>General</unittitle>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">4</container>
+                            <unittitle>Burmese Tiger Trap</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">4</container>
+                            <unittitle>Dehydrated Boulder</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">4</container>
+                            <unittitle>Fake Railroad Crossing</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">4</container>
+                            <unittitle>Fake Tunnel</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">4</container>
+                            <unittitle>Portable Hole</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">4</container>
+                            <unittitle>Spring-loaded Boxing Gloves</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="box">4</container>
+                            <unittitle>Vacuum Cleaner</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            
+            <c01 level="series">
+                <did>
+                    <unittitle>Product Testing Video</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1949/1966">1949-1966</unitdate>
+                    <physdesc>1 ½ archival boxes, 11 items</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Wile E. Coyote was eager to become the tester for the Gadgetry Division, primarily so that he could obtain the newest products created. In accordance with his agreement with the Acme Company, Wile E. Coyote video-taped his use of the gadgets in his natural setting. Due to a great deal of frustration, primarily of his own making, he titled the videos himself.  These videos are organized in chronological order and demonstrate the whole variety of products that he tested.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Chronological</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">5</container>
+                        <unittitle>Acme.1949.1, Fast and Furry-ous</unittitle>
+                        <unitdate>1949-09-17</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">5</container>
+                        <unittitle>Acme.1952.2, Beep, Beep</unittitle>
+                        <unitdate>1952-05-24</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">5</container>
+                        <unittitle>Acme.1956.1, Gee Whiz-z-z-z</unittitle>
+                        <unitdate>1956-05-05</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">5</container>
+                        <unittitle>Acme.1958.3, Hip, Hip-HuRoad Runnery!</unittitle>
+                        <unitdate>1958-12-06</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">5</container>
+                        <unittitle>Acme.1960.1, Fastest with the Mostest</unittitle>
+                        <unitdate>1960-01-09</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">5</container>
+                        <unittitle>Acme.1960.3, Hopalong Casualty</unittitle>
+                        <unitdate>1960-10-08</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">5</container>
+                        <unittitle>Acme.1965.2, Rushing Roulette</unittitle>
+                        <unitdate>1965-07-31</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">6</container>
+                        <unittitle>Acme.1965.9, Chaser On the Rocks</unittitle>
+                        <unitdate>1965-12-25</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">6</container>
+                        <unittitle>Acme.1966.1, Shot and Bothered</unittitle>
+                        <unitdate>1966-01-08</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">6</container>
+                        <unittitle>Acme.1966.3, Clippety Clobbered</unittitle>
+                        <unitdate>1966-03-26</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="box">6</container>
+                        <unittitle>Acme.1966.4, Sugar and Spies</unittitle>
+                        <unitdate>1966-11-05</unitdate>
+                    </did>
+                </c02>
+            </c01>
+          
+          <c01 level="series">
+              <did>
+                  <unittitle>Gadget Catalogs</unittitle>
+                  <unitdate unitdatetype="inclusive" normal="1953/1966">1953/1966</unitdate>
+                  <physdesc>1 ½ archival boxes, 14 items</physdesc>
+              </did>
+              <scopecontent>
+                  <head>Scope and content:</head>
+                  <p>In 1953, the Gadgetry Division began to produce catalogs of their products for their customers. The catalogs document the various products as they were offered for purchase and specifications that Wile E. Coyote would often ignore when he tested them. They document the overall product line for each of the 13 years that they were produced. This series contains all the catalogs produced and is organized in chronological order.</p>
+              </scopecontent>
+              <arrangement>
+                  <head>Arrangement:</head>
+                  <p>Chronological</p>
+              </arrangement>
+              <c02 level="file">
+                  <did>
+                      <container localtype="box">6</container>
+                      <unittitle>Gadget Catalogs</unittitle>
+                      <unitdate>1953-1957</unitdate>
+                  </did>
+              </c02>
+              <c02 level="file">
+                  <did>
+                      <container localtype="box">7</container>
+                      <unittitle>Gadget Catalogs</unittitle>
+                      <unitdate>1958-1966</unitdate>
+                  </did>
+              </c02> 
+          </c01>
+      </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="http://ead3.archivists.org/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ead3.archivists.org/schema/ https://www.loc.gov/ead/ead3.xsd">
+    <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511">
+        <recordid>document/d/1k5kntoeGJ_cdXnG44sEfb_sLdMRwPe6MAl_wfs0Ibvg</recordid>
+        <filedesc>
+            <titlestmt>
+                <titleproper render="bold">E.J. Hale Papers</titleproper>
+                <author>Processed by: Suzanne Ruffing; machine-readable finding aid created by: Shanshan Wang</author>
+            </titlestmt>
+        </filedesc>
+        <maintenancestatus value="new">Processed</maintenancestatus>
+        <maintenanceagency>
+            <agencycode>MBSi-LS</agencycode>
+            <agencyname>Simmons University Library Archives</agencyname>
+        </maintenanceagency>
+        <languagedeclaration>
+            <language langcode="eng">English</language>
+            <script scriptcode="eng">English</script>
+        </languagedeclaration>
+        <conventiondeclaration>
+            <abbr>dacs</abbr>
+            <citation>Describing Archives: A Content Standard</citation>
+        </conventiondeclaration>
+        <maintenancehistory>
+            <maintenanceevent>
+                <eventtype value="created"/>
+                <eventdatetime>1996-03</eventdatetime>
+                <agenttype value="human"/>
+                <agent>Suzanne Ruffing</agent>
+            </maintenanceevent>
+        </maintenancehistory>
+    </control>
+    
+    <archdesc level="collection" relatedencoding="MARC">
+        <did>
+            <head>Collection Summary</head>
+            <unittitle encodinganalog="245$a">
+                <title>
+                    <part>E.J. Hale Papers</part>
+                </title>
+            </unittitle>
+            <unitdatestructured>
+                <daterange>
+                    <fromdate standarddate="1815">1815</fromdate>
+                    <todate standarddate="1963">1963</todate>
+                </daterange>
+            </unitdatestructured>
+            <unitid countrycode="us" repositorycode="MBSi-LS" encodinganalog="099">00300</unitid>    
+            <origination encodinganalog="100">
+                <persname>
+                    <part>Hale, E.J.</part>
+                    <part>(Edward Joseph)</part>
+                    <part>1839-1922</part>
+                </persname>
+            </origination>
+            <langmaterial encodinganalog="546">
+                <language lang="eng">English</language>
+            </langmaterial> 
+            <physdescset>
+                <physdescstructured physdescstructuredtype="spaceoccupied" coverage="whole">
+                    <quantity>2.0</quantity>
+                    <unittype>linear feet</unittype>
+                </physdescstructured>
+                <physdescstructured physdescstructuredtype="materialtype" coverage="whole">
+                    <quantity>approximately 550</quantity>
+                    <unittype>items</unittype>
+                </physdescstructured>
+            </physdescset>
+            <repository>
+                <corpname>
+                    <part>Simmons University Library Archives</part>
+                </corpname>
+            </repository>
+            <abstract encodinganalog="545">
+                Edward Joseph Hale was editor of the Fayetteville (N.C.) Observer; Confederate officer; United States consul in Manchester, England, 1885-1889; and United States envoy to Costa Rica, 1913-1916.
+                Papers include E.J. Hale's correspondence, letterbooks, and other items relating to his diplomatic posts; his interest in canal projects at the Isthmus (a small amount), in England, and in North Carolina; state and national politics; and family business matters. The collection includes official and personal correspondence with Woodrow Wilson and correspondence of Hale's sons, Thomas Hill Hale and Frederick Toomer Hale, in Fayetteville, N.C. and Santa Cruz, Calif., concerning family business and the Depression, 1928-1936.
+            </abstract>
+        </did>
+        
+        <accessrestrict encodinganalog="506">
+            <head>Restrictions to Access</head>
+            <p>No restrictions. Open for research.</p>
+        </accessrestrict>
+        <userestrict>
+            <head>Copyright Notice</head>
+            <p>Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+        </userestrict>
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>[Identification of item], in the E.J. Hale papers #300, Southern Historical Collection, Wilson Library, University of North Carolina at Chapel Hill.</p>
+        </prefercite>
+        <acqinfo encodinganalog="541">
+            <head>Acquisitions Information</head>
+            <p>Received from E.J. Hale of Fayetteville, N.C. in 1936; from Lucy Seawell Costen of Gatesville, N.C., in 1966; from Charles B. Overman of Falls Church, Va., in May 1968.</p>
+        </acqinfo>
+        <processinfo>
+            <head>Processing Information</head>
+            <p>Suzanne Ruffing, 1996-03</p>
+            <p>Shanshan Wang, 2020-07-20</p>
+        </processinfo>
+        <bioghist>
+            <head>Biographical Information</head>
+            <p>Edward Joseph Hale, son of Edward Jones Hale and Sarah Jane Walker, was graduated from the University of North Carolina in 1860 as valedictorian. He worked briefly for his father, who was founding editor of the FayettevilleObserver, before enlisting in the Confederate Army. He achieved the rank of major in the Confederate army and remained in service until his surrender with Lane's Brigade at Appomattox. Because of the Observer's support of the Confederacy, Sherman had destroyed its printing presses, which put a temporary end to the enterprise. After the war, Hale entered a mercantile house in New York, where he eventually became a partner. He moved back to North Carolina in 1875 and, in 1882, reestablished the Fayetteville Observer.</p>
+            <p>Hale was a delegate to the National Democratic Convention in 1884 for which he drafted a tariff plank for its platform. The following year, he was appointed to the position of consul to Manchester, England, a key post because of extensive cotton trade between the South and the manufacturing interests in that city. After his consulship, Hale became the confidential financial agent of the North England Trust Company and was sent to India to investigate the indigo industry and make investments. From 1890 to 1891, he lived in New York as commissioner of the Manchester Ship Canal in North America.</p>
+            <p>Hale returned to North Carolina in 1892 and resulmed the editorship of the Observer and his position in state politics. In 1894, he was again a member of the North Carolina Democratic Convention, drawing up the National part of the State Platform. He served again in 1896, 1900, 1904 and 1906.</p>
+        </bioghist>
+        
+        <scopecontent>
+            <head>Scope and Content</head>
+            <p>The collection includes correspondence and other papers of E.J. Hale and Hale family members. Included is official and personal correspondence with Woodrow Wilson and with Hale's sons, Thomas Hill Hale and Frederick Toomer Hale, concerning family business and the Depression, 1928-1936. Much of the correspondence while Hale was consul to England relates to immigration to the United States, the Manchester Ship Canal, the indigo industry of India, the 1916coup d'etat in Mexico, and trade laws. Other papers include special passports and certificates from his consul position, recommendations and endorsements, speeches and articles from both abroad and in North Carolina, newspaper clippings, and some biographical information.</p>
+        </scopecontent>
+        
+        <arrangement>
+            <head>Collection Arrangment</head>
+            <p>Arranged into Four Series:</p>   
+            <list listtype="ordered" numeration="armenian">
+                <item>Correspondence, 1846-1936</item>
+                <item>Consul material, 1884-1916</item>
+                <item>Other papers, 1880-1936</item>
+                <item>Photographs, 1890-1900</item>
+            </list>
+        </arrangement>
+        <controlaccess>
+            <head>Subject Headings</head>
+            <p>The following terms from Library of Congress Subject Headings suggest topics, persons, geography, etc. interspersed through the entire collection; the terms do not usually represent discrete and easily identifiable portions of the collection--such as folders or items.</p>
+            <p>Clicking on a subject heading below will take you into the University Library's online catalog.</p>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Canals</part>
+                <part>England</part>
+                <part>History</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Canals</part>
+                <part>North Carolina</part>
+                <part>History</part>
+            </subject>
+            <geogname encodinganalog="651" source="lcsh">
+                <part>Costa Rica</part>
+                <part>Foreign relatinos</part>
+                <part>United Statesd</part>
+            </geogname>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Depressinos</part>
+                <part>1929</part>
+                <part>United Statesd</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Diplomatic and consular service</part>
+                <part>American</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Diplomats</part>
+                <part>United Statesd</part>
+                <part>Biography</part>
+            </subject>
+            <geogname encodinganalog="651" source="lcsh">
+                <part>England</part>
+                <part>Foreign relatinos</part>
+                <part>United Statesd</part>
+            </geogname>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Family</part>
+                <part>North Carolina</part>
+                <part>Social Life and customs</part>
+            </subject>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Hale, E.J.</part>
+                <part>(Edward Joseph)</part>
+                <part>1839-1922</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Hale, Frederick Toomer</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Hale, Thomas Hill</part>
+            </persname>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>North Carolina</part>
+                <part>Politics and government</part>
+                <part>1865-1950</part>
+            </geogname>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>Panama Canal (Panama)</part>
+                <part>History</part>
+            </geogname>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>United States </part>
+                <part>Foreign relations</part>
+                <part>Costa Rica</part>
+            </geogname>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>United States </part>
+                <part>Foreign relations</part>
+                <part>England</part>
+            </geogname>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>United States </part>
+                <part>Politics and government</part>
+                <part>1865-1933</part>
+            </geogname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Wilson, Woodrow</part>
+                <part>1856-1924</part>
+            </persname>
+        </controlaccess>
+        <separatedmaterial>
+            <head>Items Separated</head>
+            <p>Items separated included photographs (P-300/1-4)</p>
+        </separatedmaterial>
+        
+        <dsc dsctype="combined">
+            <head>Detailed Description of the Collection</head>
+            <c01 level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1846/1936">1846-1936</unitdate>
+                    <physdesc>About 310 items.</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Correspondence in both letterbook form and loose letters, chiefly 1885-1915. After 1920, correspondence is with E.J. Hale's two sons, Frederick Toomer Hale and Thomas Hill Hale, on family business matters and the Great Depression. Also included is correspondence in 1922 on Hale's death and estate.</p>
+                    </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Chronological</p>
+                </arrangement>
+                
+                <c02 level="subseries">
+                    <did>
+                         <unittitle>Letterbooks</unittitle>
+                        <unitdate unitdatetype="inclusive" normal="1877/1889">1877-1889</unitdate>
+                        <physdesc>10 items</physdesc>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and content:</head>
+                        <p>Letters containing the correspondence of E.J. Hale mainly while he was consul at Manchester, England.</p>
+                    </scopecontent>
+                    <arrangement>
+                        <head>Arrangement:</head>
+                        <p>Chronological</p>
+                    </arrangement>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">1</container>
+                            <unittitle>Volume 1: 299 pp. Letterbook</unittitle>
+                            <unitdate>1877-1880</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">2</container>
+                            <unittitle>Volume 2: 482 pp. Letterbook</unittitle>
+                            <unitdate>1885-1887</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">3</container>
+                            <unittitle>Volume 3: 248 pp. Letterbook</unittitle>
+                            <unitdate>1885-1887</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">4</container>
+                            <unittitle>Volume 4: 300 pp. Record book of visitors to the United States Consulate in Manchester.</unittitle>
+                            <unitdate>1886-1889</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">5</container>
+                            <unittitle>Volume 5: 492 pp. Letterbook</unittitle>
+                            <unitdate>1887-1889</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">6</container>
+                            <unittitle>Volume 6: 499 pp. Letterbook</unittitle>
+                            <unitdate>1888</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">7</container>
+                            <unittitle>Volume 7: 500 pp. Letterbook</unittitle>
+                            <unitdate>1888-1889</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">8</container>
+                            <unittitle>Volume 8: 493 pp. Letterbook</unittitle>
+                            <unitdate>1888-1889</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">9</container>
+                            <unittitle>Volume 9: 486 pp. Letterbook</unittitle>
+                            <unitdate>1888-1889</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">10</container>
+                            <unittitle>Volume 10: 305 pp. Letterbook</unittitle>
+                            <unitdate>1891</unitdate>  
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                <did>
+                    <unittitle>Loose Letters</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1847/1936">1847-1936</unitdate>
+                    <physdesc>300 items</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Correspondence primarily during Hale's years as consul. Most letters discuss international affairs.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Chronological</p>
+                </arrangement>
+                <c03 level="file">
+                    <did>
+                        <container localtype="folder">11</container>
+                        <unittitle>1847-1879</unittitle>
+                        <unitdate>1847-1879</unitdate>  
+                    </did>
+                </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">12</container>
+                            <unittitle>1880-1888</unittitle>
+                            <unitdate>1880-1888</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">13</container>
+                            <unittitle>1889</unittitle>
+                            <unitdate>1889</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">14</container>
+                            <unittitle>1890-1894</unittitle>
+                            <unitdate>1890-1894</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">15</container>
+                            <unittitle>1895-1899</unittitle>
+                            <unitdate>1895-1899</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">16</container>
+                            <unittitle>1900-1904</unittitle>
+                            <unitdate>1900-1904</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">17</container>
+                            <unittitle>1905-1909</unittitle>
+                            <unitdate>1905-1909</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">18</container>
+                            <unittitle>1910-1912</unittitle>
+                            <unitdate>1910-1912</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">19</container>
+                            <unittitle>1913</unittitle>
+                            <unitdate>1913</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">20</container>
+                            <unittitle>1914</unittitle>
+                            <unitdate>1914</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">21</container>
+                            <unittitle>1915</unittitle>
+                            <unitdate>1915</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">22</container>
+                            <unittitle>1916</unittitle>
+                            <unitdate>1916</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">23</container>
+                            <unittitle>1917</unittitle>
+                            <unitdate>1917</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">24</container>
+                            <unittitle>1920-1924</unittitle>
+                            <unitdate>1920-1924</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">25</container>
+                            <unittitle>1925-1933</unittitle>
+                            <unitdate>1925-1933</unitdate>  
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container localtype="folder">26</container>
+                            <unittitle>1934-1935 and undated</unittitle>
+                            <unitdate>1934-1935 and undated</unitdate>  
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+
+            <c01 level="series">
+                <did>
+                    <unittitle>Consul material</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1884/1916">1884-1916</unitdate>
+                    <physdesc>About 90 items.</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Primarily statements of support, an application, passports, and clearances for the Manchester consul position, with an additional folder of information on Costa Rica.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Topical</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">27</container>
+                        <unittitle>Application for Manchester Consul Position</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">28</container>
+                        <unittitle>Statements of Support, American</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">29</container>
+                        <unittitle>Statements of Support, British</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">30</container>
+                        <unittitle>Financial and legal material, Britain and India</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">31</container>
+                        <unittitle>Costa Rica</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            
+            <c01 level="series">
+                <did>
+                    <unittitle>Other papers</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1880/1936">1880-1936</unitdate>
+                    <physdesc>About 150 items.</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Clippings, invitations, and speeches from Hale's career as consul in both England and Costa Rica; speeches and information on projects in North Carolina; and some biographical information.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Topical</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">32</container>
+                        <unittitle>Biographical material</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">33</container>
+                        <unittitle>Biographical material on Mrs. Spier Whitaker</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">34</container>
+                        <unittitle>Camp Fear River Improvements</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">35-37</container>
+                        <unittitle>Clippings</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">38</container>
+                        <unittitle>Financial and legal materials</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">39</container>
+                        <unittitle>Invitations and other papers</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">40-41</container>
+                        <unittitle>Speeches and writings</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            
+            <c01 level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1890/1900">1890-1900</unitdate>
+                    <physdesc>4 items.</physdesc>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">P-300/1-3</container>
+                        <unittitle>Photographs of E.J. Hale</unittitle>
+                        <unitdate>Ca.1900</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">P-300/4</container>
+                        <unittitle>Photograph of Mrs. E.J. Hale</unittitle>
+                        <unitdate>1890</unitdate>
+                    </did>
+                </c02> 
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

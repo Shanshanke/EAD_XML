@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="http://ead3.archivists.org/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ead3.archivists.org/schema/ https://www.loc.gov/ead/ead3.xsd">
+    <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511">
+        <recordid>document/d/1k5kntoeGJ_cdXnG44sEfb_sLdMRwPe6MAl_wfs0Ibvg</recordid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Ester Rose Blackwood Papers, 1961-2004</titleproper>
+                <author>Prepared by Jacob, Stephanie, Shanshan and Rhea</author>
+            </titlestmt>
+        </filedesc>
+        <maintenancestatus value="new">Processing</maintenancestatus>
+        <maintenanceagency>
+            <agencycode>MBSi-LS</agencycode>
+            <agencyname>Simmons University Library Archives</agencyname>
+        </maintenanceagency>
+        <languagedeclaration>
+            <language langcode="eng">English</language>
+            <script scriptcode="eng">English</script>
+        </languagedeclaration>
+        <conventiondeclaration>
+            <abbr>dacs</abbr>
+            <citation>Describing Archives: A Content Standard</citation>
+        </conventiondeclaration>
+        <maintenancehistory>
+            <maintenanceevent>
+                <eventtype value="created"></eventtype>
+                <eventdatetime>20200711</eventdatetime>
+                <agenttype value="human"></agenttype>
+                <agent>S. Bennett, J. Kowall, R. Heaven, S. Wang</agent>
+            </maintenanceevent>
+        </maintenancehistory>
+    </control>
+    <archdesc level="collection">
+        <did>
+            <unittitle encodinganalog="245$a">
+                <title>
+                    <part>Ester Rose Blackwood Papers,</part>
+                </title>
+                <date>1961-2004</date>
+            </unittitle>
+            <unitdatestructured>
+                <daterange>
+                    <fromdate standarddate="1961">1961</fromdate>
+                    <todate standarddate="2004">2004</todate>
+                </daterange>
+            </unitdatestructured>
+            <unitid countrycode="us" repositorycode="" label="Collection number" encodinganalog="099">05294</unitid>    
+            <origination label="Creator" encodinganalog="100">
+                <persname>
+                    <part>Blackwood, Esther Rose, 1952-2004</part>
+                </persname>
+            </origination>
+            <repository>
+                <corpname>
+                    <part>Simmons University Library Archives</part>
+                </corpname>
+            </repository>
+            <physdescset>
+                <physdescstructured physdescstructuredtype="spaceoccupied" coverage="whole">
+                    <quantity>24.0</quantity>
+                    <unittype>linear feet</unittype>
+                </physdescstructured>
+                <physdescstructured physdescstructuredtype="materialtype" coverage="whole">
+                    <quantity>approximately 320</quantity>
+                    <unittype>items</unittype>
+                </physdescstructured>
+            </physdescset>
+            <langmaterial>
+                <language lang="eng">English</language>
+                <descriptivenote><p>Collection material in English</p></descriptivenote>
+            </langmaterial>
+            <abstract>Ester Rose Blackwood was born in 1952 in Rocky Mount, N.C. She received her B.A. in studio art and journalism from the University of North Carolina at Chapel Hill in 1975. She worked as assistant editor of the Southern Economic Journal, 1975-1976, and as assistant editor of the Chapel Hill, N.C., based The Moon, A Magazine of Ideas, 1977-1981. Blackwood worked at the Omega Institute for Holistic Studies in Rhinebeck, N.Y., in 1982; she began publishing her own essays and poems in The Rose Reader in 1984; and she started an astrological consulting service called Wild Rose Consulting in 1985. Intuitive Astrology: Follow Your Best Instincts to Become Who You Always Intended to Be was published in 2003. The collection is primarily diaries documenting Blackwood's personal and professional life from age eight through adulthood. Filed within the diaries are letters, drafts of writings, photographs, transcripts of psychic and astrological readings, financial records, clippings, printed materials, and other items. The collection also includes other writings by Blackwood, primarily drafts of her articles for The Moon, subject files on writing, astrology, and her career; videotapes, many of which are self-directed video diaries; and other items.</abstract>
+        </did>
+        <accessrestrict>
+            <head>Restrictions to Access</head>
+            <p>Collection is open for research except some diary access restricted until 2024 where noted.</p>
+        </accessrestrict>
+        <userestrict>
+            <head>Copyright Notice</head>
+            <p>Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law. Photocopies of diaries require permission from Blackwood’s heirs, contact the repository for details.</p>
+        </userestrict>
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>[Identification of item], in the Ester Rose Blackwood Papers #5294, Southern Historical Collection, The Wilson
+            Library, University of North Carolina at Chapel Hill.</p>
+        </prefercite>
+        <acqinfo>
+            <head>Acquisitions Information</head>
+            <p>Received from the estate of Ester Rose Blackwood of Chapel Hill, N.C., in September 2006 (Acc. 100493), October
+            2006 (Acc. 100521), and April 2007 (Acc. 100632).</p>
+        </acqinfo>
+        <processinfo>
+            <head>Processing Information</head>
+            <p>Simmons University Library Archives Description Disco Team 1 2020-07-11</p>
+        </processinfo>
+        <bioghist>
+            <head>Biographical Information</head>
+            <p>Ester Rose Blackwood (ERB) was born on 7 March 1952 in Rocky Mount, N.C. She graduated from Weldon High School in 1970 and from the University of North Carolina at Chapel Hill in 1975 with a B.A. in journalism and studio art. That same year, she married Stephen Campbell, at which point she began publishing under the name Ester Blackwood Campbell. She worked as assistant editor for The Southern Economic Journal, 1975-1976, and as assistant editor of The Moon, A Magazine of Ideas, 1977-1981. In 1978, she and Campbell separated, and she resumed the name Ester Rose Blackwood. She built and moved into a small, sparsely equipped house on the land coowned by her and her husband. 
+    During the 1970s, ERB’s interests in astrology, writing, and new age and alternative arts grew. She also became more involved in writing and publishing her personal, first-person essays in The Moon and other publications. In 1981, she left her position at The Moon and began working as a waitress at Pyewacket, a Chapel Hill, N.C., restaurant. She also sold socks on the side. In 1982, ERB worked at the Omega Institute for Holistic Studies in Rhinebeck, N.Y., as faculty coordinator, director of marketing, and program coordinator. While working at Omega, ERB lived in Tivoli, N.Y. In 1984, she began publishing essays and poems in The Rose Reader. In 1985, she began to supplement her income by modeling for art classes. She also started her own astrology consulting service, called Wild Rose Consulting, and did freelance writing under the business name Communications Clarified. In 1987, she did a writer’s residency at Edna St. Vincent Millay Colony for the Arts, in Austerlitz, N.Y., and her story “On Dreams” was published in the anthology, Dreams Are Wiser Than Men (North Atlantic Books). After completing her residency, she moved back to Tivoli. Blackwood authored the book, Intuitive Astrology, in which she brings the intuitive language of the heavens down to earth for all of us to understand. Throughout her writings and career, Blackwood’s theoretical ingenuity and actual productivity present in the collection a remarkable portrait of a private intellectual and a public activist; a thinker and a doer; two roles that are rarely discovered so thoroughly in one person.</p>
+        </bioghist>
+        <scopecontent>
+            <head>Scope and Content</head>
+            <p>Ester Rose Blackwood, born in 1952 in Rocky Mount, N.C. was an astrologer and writer. She received her B.A. in studio art and journalism from the University of North Carolina at Chapel Hill in 1975. She worked as assistant editor of the Southern Economic Journal, 1975-1976, and as assistant editor of the Chapel Hill, N.C., based The Moon, A Magazine of Ideas, 1977-1981. The collection is primarily diaries documenting Blackwood’s personal and professional life. Filed within the diaries are letters, drafts of writings, photographs, transcripts of psychic readings and astrological readings, financial records, clippings, printed materials, and other items. The diaries begin when Blackwood was eight. Until her college years, they chiefly describe friendships, family, school, boys, and aspects of her daily life. Beginning with college, entries become increasingly spiritual and introspective, documenting personal, romantic, and sexual relationships in great detail. In sifting through the diaries, it sometimes appears as though Blackwood as a young woman purposely mapped out her life and then meticulously followed each planned path so that her biographers would be struck by the creative continuity of her long, multifaceted life. The collection also includes other writings by Blackwood, primarily drafts of her articles for The Moon, A Magazine of Ideas, but also drafts, notes, and final copies of writings for other publications.
+    The papers include diaries documenting Blackwood’s personal and professional life. Filed within the diaries are letters, drafts of writings, photographs, transcripts of psychic and astrological readings, financial records, clippings, printed materials, and other items. The diaries begin when Blackwood was eight. Until her college years, they chiefly describe friendships, family, school, boys, and aspects of her daily life. Beginning with college, entries become increasingly spiritual and introspective, documenting personal, romantic, and sexual relationships in great detail. The collection also includes other writings by Blackwood, primarily drafts of her articles for The Moon, but also drafts, notes, and final copies of writings for other publications.
+            </p>
+        </scopecontent>
+        <arrangement>
+            <head>Collection Arrangment</head>
+            <p>Arranged into two Series:</p>   
+            <list listtype="ordered" numeration="armenian">
+                <item>Diaries, 1961-2004.</item>
+                <item>Writings and Related Materials, 1970-2004.</item>
+            </list>
+        </arrangement>
+        <controlaccess>
+            <head>Access Points</head>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Blackwood, Ester Rose,</part>
+                <part>1952-2004</part>
+            </persname>
+            <subject encodinganalog="650" source="lcsh">
+                <part>The Moon (Chapel Hill, N.C.)</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Astrologers</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Astrology</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Psychics</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Women</part>
+                <part>New York (State)</part>
+                <part>Dairies</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Women</part>
+                <part>North Carolina</part>
+                <part>Diaries</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Women</part>
+                <part>New York (State)</part>
+                <part>Social Life and customs</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Women</part>
+                <part>North Carolina</part>
+                <part>Social Life and customs</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Women authors, American</part>
+                <part>New York (State)</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Women authors, American</part>
+                <part>North Carolina</part>
+            </subject>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>Chapel Hill (N.C.)</part>
+                <part>History</part>
+            </geogname>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>Chapel Hill (N.C.)</part>
+                <part>Social Life and customs</part>
+            </geogname>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>Tivoli (N.Y.)</part>
+                <part>History</part>
+            </geogname>
+            <geogname encodinganalog="655" source= "lcsh">
+                <part>Tivoli (N.Y.)</part>
+                <part>Social Life and customs</part>
+            </geogname>
+            <genreform encodinganalog="655" source="lcsh">
+                <part>Dairies</part>
+            </genreform>
+        </controlaccess>
+        <dsc dsctype="combined">
+            <head>Detailed Description of the Collection</head>
+            <c01 level="series">
+                <did>
+                    <unittitle>Series 1. Diaries,</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1961/2004">1961-2004</unitdate>
+                    <physdesc>About 200 items.</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Diaries documenting the personal and professional life of Ester Rose Blackwood. Filed within the diaries are letters, drafts of writings, photographs, transcripts of psychic and astrological readings, financial records, clippings, printed materials, and other items.</p>
+                    <p>The diaries begin when Blackwood was eight, and until Blackwood's college years, chiefly describe friendships, family, school, boys, and other aspects her daily life. Note that all diaries prior to 1971 contain annotations made by Blackwood in 1971. During college and thereafter, entries become increasingly spiritual and introspective, documenting personal, romantic, and sexual relationships in great detail. They also include many drafts of her writings.</p>
+                    <p>Some diaries from the 1970s and 1980s include a table of contents, noting major events and entries in the diary and when they occurred. In the early 1980s, Blackwood began to keep copious records, which she called "Lifelogs" or "Timelogs," that describe her daily activities, money earned and spent, work produced, social events, and the state of her health. These logs typically appear yearly and tri-yearly. Beginning in the early 1990s, the diaries include monthly astrological charts with handwritten annotations by Blackwood regarding events that occur in relation to the dates and times of the chart.</p>
+                    <p>Note that original file folder titles have, for the most part, been retained.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>chronological</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">1</container>
+                        <unittitle>1960-1961</unittitle>
+                        <unitdate unitdatetype="inclusive" normal="1960/1961">1960-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">2-3</container>
+                        <unittitle>1963, 1999</unittitle>
+                        <unitdatestructured unitdatetype="bulk">
+                            <datesingle standarddate="1963">1963</datesingle>
+                        </unitdatestructured>
+                        <unitdatestructured unitdatetype="bulk">
+                            <datesingle standarddate="1999">1999</datesingle>    
+                        </unitdatestructured>
+                    </did>
+                    <scopecontent>
+                        <p>Folder 3 includes Blackwood's will.</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">4</container>
+                        <unittitle>1964-1969</unittitle>
+                        <unitdate unitdatetype="inclusive" normal="1964/1969">1964-1969</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle>Series 2. Writings and Related Materials,</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1970/2004">1970-2004</unitdate>
+                    <physdesc>About 50 items.</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Published and unpublished writings. Includes drafts, photocopies, and printed versions of articles, stories, and books by Ester Rose Blackwood Also included are several folders with articles written by others. Note that original file folder titles have, for the most part, been retained.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>alphabetical</p>
+                </arrangement>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="http://ead3.archivists.org/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ead3.archivists.org/schema/ https://www.loc.gov/ead/ead3.xsd">
+    <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511">
+        <recordid instanceurl="http://www.simmons.edu/lis440/WangFinal.xml">WangFinal.XML</recordid>
+        <filedesc>
+            <titlestmt>
+                <titleproper render="bold">Guide to the Henry C. Culpepper Papers, 1850-1973</titleproper>
+                <author>Processed by: Charlie Brown; machine-readable finding aid created by: Shanshan Wang</author>
+                <sponsor>Processing of this collection was supported in part by gifts from the estate of Wile E. Coyote.</sponsor>
+            </titlestmt>
+        </filedesc>
+        <maintenancestatus value="new"/> 
+        <maintenanceagency>
+            <agencycode>MBSi-LS</agencycode>
+            <agencyname>Random University Archives and Special Collections</agencyname>
+        </maintenanceagency>
+        <languagedeclaration>
+            <language langcode="eng"/>
+            <script scriptcode="Latn"/>
+        </languagedeclaration>
+        <conventiondeclaration>
+            <abbr>dacs</abbr>
+            <citation>Describing Archives: A Content Standard. Chicago: Society of American Archivists, 2013.</citation>
+        </conventiondeclaration>
+        <maintenancehistory>
+            <maintenanceevent>
+                <eventtype value="created"/>
+                <eventdatetime standarddatetime="2020-07-22">2020-08-15</eventdatetime>
+                <agenttype value="human"/>
+                <agent>Shanshan Wang</agent>
+            </maintenanceevent>
+        </maintenancehistory>
+    </control>
+    
+    <archdesc level="collection" relatedencoding="MARC">
+        <did>
+            <head>Descriptive Summary</head>
+            <unittitle encodinganalog="245$a">Henry C. Culpepper Papers</unittitle>
+            <unitdatestructured>
+                <daterange>
+                    <fromdate standarddate="1949">1850</fromdate>
+                    <todate standarddate="1966">1973</todate>
+                </daterange>
+            </unitdatestructured>
+            <unitid countrycode="US" repositorycode="MBSi-LS" encodinganalog="099">#9999</unitid>
+            <origination encodinganalog="600">
+                <persname>
+                    <part>Culpepper, Henry C.</part>
+                    <part>1870-1951</part>
+                </persname>
+            </origination>
+            <langmaterial encodinganalog="546">
+                <language lang="eng">Materials are in English</language>
+            </langmaterial> 
+            <physdescset>
+                <physdescstructured physdescstructuredtype="carrier" coverage="whole">
+                    <quantity>1,100</quantity>
+                    <unittype>items</unittype>
+                </physdescstructured>
+                <physdescstructured physdescstructuredtype="spaceoccupied" coverage="whole">
+                    <quantity>1.5</quantity>
+                    <unittype>linear feet</unittype>
+                </physdescstructured>
+            </physdescset>
+            <repository>
+                <corpname>
+                    <part>Random University</part>
+                    <part>Archives and Special Collections</part>
+                </corpname>
+            </repository>
+            <physloc>Collection may be stored separately. Please contact Archives staff for more information.</physloc>
+            <abstract encodinganalog="545">
+                Henry C. Culpepper was born in west of Tarboro, N.C., at Hilma, the home of his parents, Laura Chivers and John L. Culpepper, Jr., on 7 January 1861. He was an athlete, attorney, railroad man, and entrepreneur. He attended school locally and as a youth was noted for his collection of several hundred varieties of birds’ eggs. 
+                When he was sixteen, he entered the University of the South at Sewanee, Tenn. and from there went to the University of North Carolina. At Chapel Hill he was a member of Sigma Nu Fraternity and the German Club, but his chief fame lay in his abilities in tennis, trap shooting, and golf. He received his law degree in 1895 and returned home to join his father’s firm, Culpepper and Partners. 
+                When he was only twenty-two, he was elected president of the East Carolina Railway, which eventually ran from Tarboro to Hookerton, in Greene County, and literally created the towns of Pinetops, Macclesfield, and Fountain. As an attorney, he became local counsel for the Southern Railway. He let none of these activities interfere with sports, managing over the next twenty years to gather a large number of trophies in shooting, golf, and tennis and to achieve a modest national reputation in all three. 
+                On 12 January 1912, Henry C. Culpepper married Mary Meade Bernard of Petersburg, Va., daughter of Lucia Beverly Morrison and Judge David Meade Bernard II. Henry C. Culpepper died on 13 October 1951 at Merrienmeade. 
+            </abstract>
+            <abstract encodinganalog="520">
+                This collection documents the activities of Henry C. Culpepper, who was an athlete, attorney, railroad man, and entrepreneur. It includes correspondence, financial and legal materials including contracts, court documents, and related correspondence, journals, photographs and eggs specimens. 
+                The correspondence chiefly documents family letters to Henry C. Culpepper’s forebears. Letters to his wife, Rebecca Louisa Dicken Culpepper, relate to military life and the general progress of the war and advice on family businesses while he was serving with Company A of the 1st North Carolina Infantry Regiment during the Civil War. There are also several correspondences relating to his education at the University of North Carolina at Chapel Hill in 1980s. 
+                There is little information about his academic pursuits. Beginning in 1925 and continuing until 1951, there is considerable correspondence between Henry C. Culpepper and his cousin, Ann Preston Culpepper, documenting the biter and sometimes violent disputation. The financial and legal materials relating to the construction and on-going maintenance of the golf club by Henry C. Culpepper in the late 1890s and first half of the twentieth century. 
+                Materials relating to Henry C. Culpepper’s youthful collecting of several hundred varieties of birds’ eggs from 1886 to 1892 are kept in this collection. There are also journals Culpepper kept that document how and where he got his birds’ eggs. There are several hundred photographs of Culpepper and his eggs, Culpepper in locations where he found eggs, and close-ups of eggs and even 66 physical eggs that survive from the collection.   
+            </abstract>     
+        </did>
+
+        <accessrestrict encodinganalog="506">
+            <head>Restrictions to Access</head>
+            <p>This collection is partially open for research. Some restrictions apply.</p>
+            <p>Materials relating to egg colleting will be closed to research until (1)Penelope Culpepper Hayes's (the donor) book is published or (2)2035. The book is about her grandfather's youthful bird egg collecting and the tentative title is "Nothing to Yolk About: A Boy's Life in Egg Collecting", whichever comes first.</p>
+        </accessrestrict>
+        <userestrict>
+            <head>Copyright Notice</head>
+            <p>Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+        </userestrict>
+        <acqinfo encodinganalog="541">
+            <head>Acquisitions Information</head>
+            <p>This collection was donated by Penelope Culpepper Hayes, London, England, in January 2015. (#9999)</p>
+        </acqinfo>
+        <processinfo>
+            <head>Processing Information</head>
+            <p>Charlie Brown, 2015-02</p>
+            <p>Shanshan Wang, 2020-08-15</p>
+        </processinfo>
+        <prefercite>
+            <head>Preferred Citation</head>
+            <p>[Identification of item: description and date], in the Henry C. Culpepper papers #9999, Archives and Special Collections, Random University, South Boston, MA, USA.</p>
+        </prefercite>
+        
+        <bioghist>
+            <head>Historical Note</head>
+            <p>Henry C. Culpepper was born in west of Tarboro, N.C., at Hilma, the home of his parents, Laura Chivers and John L. Culpepper, Jr., on 7 January 1861. He was an athlete, attorney, railroad man, and entrepreneur. He attended school locally and as a youth was noted for his collection of several hundred varieties of birds’ eggs. When he was sixteen, he entered the University of the South at Sewanee, Tenn. and from there went to the University of North Carolina. 
+                At Chapel Hill he was a member of Sigma Nu Fraternity and the German Club, but his chief fame lay in his abilities in tennis, trap shooting, and golf. He helped represent the university in tennis and shooting and is credited with having introduced golf at Chapel Hill. He received his law degree in 1895 and returned home to join his father’s firm, Culpepper and Partners.</p>
+            <p>Within a few years Henry C. Culpepper had converted the western portion of his father’s homestead into a combined pasture-golf course and had built a railroad. The golf course, now Hilma Country Club, was one of the first in the state and has been played on continuously since 29 April 1899. 
+                When he was only twenty-two, he was elected president of the East Carolina Railway, which eventually ran from Tarboro to Hookerton, in Greene County, and literally created the towns of Pinetops, Macclesfield, and Fountain. As an attorney, he became local counsel for the Southern Railway. 
+                He let none of these activities interfere with sports, managing over the next twenty years to gather a large number of trophies in shooting, golf, and tennis and to achieve a modest national reputation in all three. Along with his railroad operation, Henry C. Culpepper became active in banking; by 1913 he had been made president of the First National Bank in Tarboro and the banks of Conetoe, Pinetops, Macclesfield, Fountain, and Hookerton. 
+                He was also president of ten other companies. In addition, he had acquired substantial farmlands, which he operated successfully; but unlike his father and grandfather, he had no inborn love of the soil. Briefly he ventured into publishing, acquiring a short-lived control of the Tarboro Southerner. He had a keen mind, a driving energy, and diverse interests.</p>
+            <p>On 12 January 1912, Henry C. Culpepper married Mary Meade Bernard of Petersburg, Va., daughter of Lucia Beverly Morrison and Judge David Meade Bernard II. They had a son, Henry C., Jr. (“Chivey”), and a daughter, Lucia Beverly. In 1924 they completed a Georgian-colonial home in Tarboro called Merrienmeade, for which the architect, Dwight James Baum of New York, received national recognition. 
+                Henry C. Culpepper died on 13 October 1951 at Merrienmeade. Mary Meade died at Merrienmeade as well and they were both buried in the yard of Calvary Episcopal Church in Tarboro. A portrait of each is in the possession of their children.</p>
+            <p>Culpepper family members include John Luther Culpepper (1821-1884), Henry C. Culpepper’s grandfather, was an attorney, state legislator, agriculturalist, and solider, and he settled in Tarboro, N.C., where he had a successful law and planting career; John Luther Culpepper, Jr. (1850-1932), Henry C. Culpepper’s father, was an attorney, farmer, guardsman, and author, and he wrote a history of Edgecombe Country, but his true loves were hunting and plating; 
+                Henry C. Culpepper, Jr. (1913?-1981), Henry C. Culpepper’s son, served for 30 years as an aviator in the United States Navy and he was stationed in the South Pacific and won the Legion of Merit during the World War II; Ann Preston Culpepper (1891-1967), Henry C. Culpepper’s cousin, was a teacher, actress, writer, and civic leader; 
+                Penelope Culpepper Hayes (1946-), Henry C. Culpepper’s granddaughter, was a writer and she discovered all these materials in the attic and donated them to the Random University Archives and Special Collections Department in January 2015.</p>
+        </bioghist>
+        
+        <scopecontent>
+            <head>Scope and Content of the Collection</head>
+            <p>This collection documents the activities of Henry C. Culpepper, who was an athlete, attorney, railroad man, and entrepreneur. It includes correspondence, financial and legal materials including contracts, court documents, and related correspondence, journals, photographs and eggs specimens.</p>
+            <p>The correspondence series documents family letters to Henry C. Culpepper’s forebears, especially his grandfather, John Luther Culpepper, and his father John Luther Culpepper, Jr. There are also about 20 letters from John Luther Culpepper to his wife, Rebecca Louisa Dicken Culpepper, while he was serving with Company A of the 1st North Carolina Infantry Regiment during the Civil War. 
+               These letters discuss military life and the general progress of the war and advice on how to run the family businesses in Henry’s absence. Correspondence starts to relate his education at the University of North Carolina in the mid-1980s. Letters from Chapel Hill chiefly discuss his successful promotion of golf at the University and his other sporting activities. There is little information about his academic pursuits. 
+               In the late 1890s, letters relate chiefly to his railroad, law, and sporting activities. Beginning in 1925 and continuing until 1951, there is considerable correspondence documenting the bitter and sometimes violent dispute among Henry C. Culpepper, his cousin, actress and writer Ann Preston Culpepper. After Henry C. Culpepper’s death in 1951, there are scattered family letters including a few relating to Henry C. Culpepper, Jr.’s career decision. After 1965, there are many letters relating to Henry C. Culpepper, Jr.’s daughter Penelope Culpepper Hayes’s marriage and permanent move to England and fledgling writing career.</p>   
+            <p>The financial and legal materials series relating to the construction and on-going maintenance of the Hilma Country Club on land developed as a golf course by Henry C. Culpepper in the late 1890s and first half of the twentieth century. contains letters to contractors and others, construction plans and drawings, maintenance contracts, event documentation. 
+               Materials relating to Henry C. Culpepper’s youthful collecting of several hundred varieties of birds’ eggs from 1886 to 1892 are kept in this collection. There are also journals Culpepper kept that document how and where he got his birds’ eggs. There are several hundred photographs of Culpepper and his eggs, Culpepper in locations where he found eggs, and close-ups of eggs and even 66 physical eggs that survive from the collection.</p>
+            <p>Finally, the Henry C. Culpepper papers give a sense of his life, activities including egg collecting and sports, businesses, and relationships between his family members.</p>
+        </scopecontent>
+        
+        <arrangement>
+            <head>Arrangment of the Collection</head>
+            <p>Arranged into Three Series:</p>   
+            <list listtype="ordered" numeration="armenian">
+                <item>Correspondence, 1850-1973</item>
+                <item>Financial and legal materials, 1896-1951</item>
+                <item>Birds' eggs materials, 1886-1892</item>
+            </list>
+        </arrangement>
+        
+        <controlaccess>
+            <head>Subject Headings</head>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Culpepper, Henry C.</part>
+                <part>1876-1951</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Hayes, Penelope Culpepper</part>
+                <part>1946-</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Culpepper, Rebecca Louisa Dicken</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Culpepper, Ann Preston</part>
+                <part>1891-1967</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Culpepper, John Luther</part>
+                <part>1821-1884</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Culpepper, John Luther, Jr.</part>
+                <part>1850-1932</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Culpepper, Henry C., Jr.</part>
+                <part>1913-1981</part>
+            </persname>
+            <persname encodinganalog="600" source="lcnaf">
+                <part>Person, T. Gilbert</part>
+                <part>(Thomas Gilbert)</part>
+                <part>1873-1943</part>
+            </persname>
+            <corpname encodinganalog="610" source="lcnaf">
+                <part>Universtiy of North Carolina</part>
+                <part>(1793-1962)</part>
+                <part>Students</part>
+                <part>Law</part>
+                <part>19th Century</part>
+            </corpname>
+            <corpname encodinganalog="610" source="lcnaf">
+                <part>Universtiy of North Carolina</part>
+                <part>(1793-1962)</part>
+                <part>Sports</part>
+                <part>19th Century</part>
+            </corpname>
+            <corpname encodinganalog="610" source="lcnaf">
+                <part>Universtiy of North Carolina at</part>
+                <part>Chapel Hill (N.C.)</part>
+                <part>Students</part>
+                <part>Law</part>
+                <part>19th Century</part>
+            </corpname>
+            <corpname encodinganalog="610" source="lcnaf">
+                <part>Universtiy of North Carolina at</part>
+                <part>Chapel Hill (N.C.)</part>
+                <part>Sports</part>
+                <part>19th Century</part>
+            </corpname>
+            <corpname encodinganalog="610" source="lcnaf">
+                <part>Confederate States of America</part>
+                <part>Army</part>
+                <part>North Carolina Infantry Regiment, 1st, Company A</part>
+            </corpname>
+            <corpname encodinganalog="610" source="lcnaf">
+                <part>Confederate States of America</part>
+                <part>Army</part>
+                <part>Military life</part>
+            </corpname>
+            <corpname encodinganalog="610" source="lcnaf">
+                <part>Confederate States of America</part>
+                <part>Civil War</part>
+            </corpname>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Education</part>
+                <part>North Carolina</part>
+                <part>Law</part>
+                <part>19th centry</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Family</part>
+                <part>North Carolina</part>
+                <part>Social life and customs</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Family</part>
+                <part>North Carolina</part>
+                <part>Family business</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Birds, Fossil</part>
+                <part>Eggs</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Attorneys</part>
+            </subject>
+            <subject encodinganalog="650" source="lcsh">
+                <part>Athletes</part>
+            </subject>
+            <geogname encodinganalog="651" source="lcsh">
+                <part>Chapel Hill</part>
+                <part>(N.C.)</part>
+                <part>Education</part>
+            </geogname>
+            <geogname encodinganalog="651" source="lcsh">
+                <part>Chapel Hill</part>
+                <part>(N.C.)</part>
+                <part>Sports</part>
+            </geogname>
+            <geogname encodinganalog="651" source="lcsh">
+                <part>Tarboro</part>
+                <part>(N.C.)</part>
+                <part>Social life and customs</part>
+            </geogname>
+            <geogname encodinganalog="651" source="lcsh">
+                <part>Tarboro</part>
+                <part>(N.C.)</part>
+                <part>Family business</part>
+            </geogname>
+            <geogname encodinganalog="651" source="lcsh">
+                <part>Petersburg</part>
+                <part>(Va.)</part>
+                <part>Marriage</part>
+            </geogname>
+            <genreform encodinganalog="655" source="gmgpc">
+                <part>Journals</part>
+            </genreform>
+            <genreform encodinganalog="655" source="gmgpc">
+                <part>Photographs</part>
+            </genreform>
+         </controlaccess>
+        
+        <separatedmaterial>
+            <head>Materials Cataloged Separately</head>
+            <p>Oversized papers (OP-9999)</p>
+            <p>Photographs (P-9999)</p>
+            <p>Birds' eggs (MU-9999)</p>
+        </separatedmaterial>
+        <relatedmaterial>
+            <head>Related Materials</head>
+            <p>Ann Preston Culpepper papers at both Random University's Archives and Special Collections Department, and The Princeville Historical Society, North Carolina.</p>
+            <p>John Luther Culpepper papers at Random University's Archives and Special Collections Department.</p>
+        </relatedmaterial>
+      <dsc dsctype="combined">
+            <head>Detailed Description of the Collection</head>
+            <c01 level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1850/1973">1850-1973</unitdate>
+                    <physdesc>About 300 items</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Early letters are chiefly rountine family letters to Henry C. Culpepper's forebears, especially to his grandfather John Luther Culpepper, and his father John Luther Culpepper, Jr. There are almost 20 letters from John Luther Culpepper to his wife, Rebecca Louisa Dicken Culpepper, while he was serving 
+                       with Company A of Ist North Carolian Infanty Regiment during the Civil War. These letters discuss military life and hte general progress of the war; they also offer advice on how to run the family businesses in his absence.</p>
+                    <p>Henry C. Culpepper correspondence starts with his studying at the University of North Carolina in the mid-1890s. Leters from Chapel Hill chiefly discuss Culpepper's successful promotion of golf at the University and his other sporting activities. Letters begins in the late 1890s relate chiefly to his
+                       railroad, law, and sporting activities.</p>
+                    <p>There is considerable correspondence documenting the bitter and sometimes violent dispute among Henry C. Culpepper, his cousin, actress and writer Ann Preston Culpepper, and her co-writer and friend, playwright George Abbott, about Ann's devotion to Christian Science. These letters show Henry voicing strong opposition to her views, Ann defending her right to believe as she wished, and George occasionally suggesting in no uncertain terms what Henry could do with his opposition.</p>
+                    <p>After Culpepper's death in 1951, there are scattered family letters including a few relating to Henry C. Culpepper, Jr.'s (Chivey) decision to end his 30-year career as an aviator with the United States Navy due to bad health and his desire to return to the family in Tarboro. After 1965, there are many letters relating to Chivey's daughter Penelope Culpepper Hayes's marriage and permanent move to England and to her fledgling writing career both as a travel writer and as a children's author under the Rob Ready pen name.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Chronological</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">1</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1850-1860</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">2</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1861-1865</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">3</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1866-1889</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">4</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1890-1895</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">5</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1896-1924</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">6</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1925-1951</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">7</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1952-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">8</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1966-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">9</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>Undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+          
+             <c01 level="series">
+                <did>
+                    <unittitle>Financial and legal materials</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1896/1951">1896-1951</unitdate>
+                    <physdesc>About 200 items.</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>This series contains financial and legal materials which are organized into two groups.</p>
+                    <p>There are about 70 items dated from 1896 to 1950, and a few undated materials in the subseries I, relating to the construction and on-going maintenance of the Hilma Country Club on land developed as a golf course by Henry C. Culpepper in the late 1890s and first half of the twentieth century.
+                       Subseries I contains letters to contractors and others, construction plans and drawings, maintenance contracts, event documentation, and other items. Materials in subseries I are arranged chronologically.</p>
+                    <p>Subseries II contains about 130 financial and legal items, chiefly contracts, court documents, and related correspondence, 1900-1951, documenting Culpepper's work with railroads, chief among them the Southern Railway; banks; and other business ventures.
+                       There are also materials documenting his agricultural pursuits. There is little to no documentation of his early work in the law firm, Culpepper and Partners. The materials in the Subseries II are arranged topically.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Chronological and topical</p>
+                </arrangement>
+                 <c02 level="subseries">
+                     <did>
+                         <unittitle>Financial materials</unittitle>
+                         <unitdate>1896-1950</unitdate>
+                     </did>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">10</container>
+                             <unittitle>Financial materials</unittitle>
+                             <unitdate>1896-1899</unitdate>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">11</container>
+                             <unittitle>Financial materials</unittitle>
+                             <unitdate>1900-1950</unitdate>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">12</container>
+                             <unittitle>Financial materials</unittitle>
+                             <unitdate>Undated</unitdate>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">OP-9999</container>
+                             <unittitle>Course plans</unittitle>
+                         </did>
+                     </c03>
+                 </c02>
+                 
+                 <c02 level="subseries">
+                     <did>
+                         <unittitle>Financial and legal materials</unittitle>
+                         <unitdate>1900-1951</unitdate>
+                     </did>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">13</container>
+                             <unittitle>Agriculture</unittitle>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">14</container>
+                             <unittitle>Banking</unittitle>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">15</container>
+                             <unittitle>Railroads:General</unittitle>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">16</container>
+                             <unittitle>Railroads:Southern Railway</unittitle>
+                         </did>
+                     </c03>
+                     <c03 level="file">
+                         <did>
+                             <container localtype="folder">17</container>
+                             <unittitle>Other businesses</unittitle>
+                         </did>
+                     </c03>
+                 </c02>
+            </c01>
+            
+            <c01 level="series">
+                <did>
+                    <unittitle>Birds' eggs materials</unittitle>
+                    <unitdate unitdatetype="inclusive" normal="1886/1892">1886-1892</unitdate>
+                    <physdesc>About 600 items.</physdesc>
+                </did>
+                <scopecontent>
+                    <head>Scope and content:</head>
+                    <p>Materials in this series relating to Henry C. Culpepper's youthful collecting of several hundred varieties of birds' eggs. There are about 20 correspondence between Culpepper and noted North Carolina ornithologist T. Gilbert Pearson.
+                       There are also journals Culpepper kept that document how and where he got his eggs; several hundred photographs of Culpepper and his eggs, Culpepper in locations where he found eggs, and close-ups of eggs; and physical eggs that survive from the collection (66 specimens).
+                       The materials are arranged by type. This series is CLOSED to research until the donor's book on Culpepper's egg collecting is published or 2035, whichever comes first.</p>
+                </scopecontent>
+                <arrangement>
+                    <head>Arrangement:</head>
+                    <p>Type</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">18-19</container>
+                        <unittitle>Correspondence</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">20</container>
+                        <unittitle>Journal</unittitle>
+                        <unitdate>1886</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">21</container>
+                        <unittitle>Journal</unittitle>
+                        <unitdate>1887-1890</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">22</container>
+                        <unittitle>Journal</unittitle>
+                        <unitdate>1891-1892</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">P-9999/Folder 1</container>
+                        <unittitle>Photographs of Culpepper and eggs</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">P-9999/Folder 2</container>
+                        <unittitle>Photographs of Culpepper in locations where he found eggs</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="folder">P-9999/Folder 3</container>
+                        <unittitle>Photogrpahs of eggs</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container localtype="items">MU-9999/1-66</container>
+                        <unittitle>Eggs</unittitle>
+                    </did>
+                </c02>
+          </c01>
+      </dsc>
+    </archdesc>
+</ead>
